@@ -21,6 +21,7 @@ R:**
 Utilized R for data analysis, statistical modeling, and visualization.
 
 **Repository Contents**
+
 **Code:**
 Contains R scripts and notebooks used for data analysis, modeling, and visualization.
 **Data:**
@@ -29,6 +30,7 @@ Includes sample datasets or instructions on how to access the data used in the a
 Showcases key findings, visualizations, and insights derived from the analysis.
 
 **How to Use**
+
 Clone the repository to your local machine.
 Install the required R packages.
 Run the provided scripts or notebooks to replicate the analysis.
